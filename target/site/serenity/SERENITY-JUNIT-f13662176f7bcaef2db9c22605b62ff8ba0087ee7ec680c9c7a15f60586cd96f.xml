@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Customer scenarios of The-Companion365 Website" skipped="0" tests="1" time="28.44" timestamp="2023-04-19 09:52:05"><testcase name="User fill the data Customers page"><error message="stale element reference: element is not attached to the page document&#10;  (Session info: chrome=111.0.5563.149)&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference&#10;Build info: version: '4.8.1', revision: '8ebccac989'&#10;System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Command: [9bd6b2e15f6e5c917745aac0cc0cbdc8, clickElement {id=b35ffad3-d03b-42b0-9161-a92f5ea00ec6}]&#10;Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 111.0.5563.149, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\SUNIL~1.SAL\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:60765}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60765/devtoo..., se:cdpVersion: 111.0.5563.149, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}&#10;Element: [[ChromeDriver: chrome on WINDOWS (9bd6b2e15f6e5c917745aac0cc0cbdc8)] -&gt; xpath: //body/div[@id='customers-page']/div[@id='customers']/div[@id='filter-customers']/div[1]/div[3]]&#10;Session ID: 9bd6b2e15f6e5c917745aac0cc0cbdc8&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference&#10;Build info: version: '4.8.1', revision: '8ebccac989'&#10;System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.StaleElementReferenceException">stale element reference: element is not attached to the page document
+  (Session info: chrome=111.0.5563.149)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9bd6b2e15f6e5c917745aac0cc0cbdc8, clickElement {id=b35ffad3-d03b-42b0-9161-a92f5ea00ec6}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 111.0.5563.149, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\SUNIL~1.SAL\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:60765}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60765/devtoo..., se:cdpVersion: 111.0.5563.149, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (9bd6b2e15f6e5c917745aac0cc0cbdc8)] -&gt; xpath: //body/div[@id='customers-page']/div[@id='customers']/div[@id='filter-customers']/div[1]/div[3]]
+Session ID: 9bd6b2e15f6e5c917745aac0cc0cbdc8
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: driver.version: unknown</error><system-err>stale element reference: element is not attached to the page document
+  (Session info: chrome=111.0.5563.149)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9bd6b2e15f6e5c917745aac0cc0cbdc8, clickElement {id=b35ffad3-d03b-42b0-9161-a92f5ea00ec6}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 111.0.5563.149, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\SUNIL~1.SAL\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:60765}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60765/devtoo..., se:cdpVersion: 111.0.5563.149, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (9bd6b2e15f6e5c917745aac0cc0cbdc8)] -&gt; xpath: //body/div[@id='customers-page']/div[@id='customers']/div[@id='filter-customers']/div[1]/div[3]]
+Session ID: 9bd6b2e15f6e5c917745aac0cc0cbdc8
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: driver.version: unknown&#13;
+show.ui.CustomersPage.navigateEdit(CustomersPage.java:115)&#13;
+show.StepDef.CustomersStepDef.editPage(CustomersStepDef.java:49)&#13;
+✽.User navigate to edit page(file:///C:/javapro/Easy-Appointments/src/test/resources/features/Customers.feature:10)&#13;
+</system-err></testcase></testsuite>

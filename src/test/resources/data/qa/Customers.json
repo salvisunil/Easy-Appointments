@@ -1,0 +1,17 @@
+{
+  "Customers":
+  {
+    "cust_test_case_001":
+    {
+      "first_name": "alax",
+      "last_name": "patterson",
+      "email": "alaxpatterson23@gmail.com",
+      "phone_number": "123456789",
+      "address": "america",
+      "city": "America",
+      "zip_code": "345781",
+      "note": "remembers"
+    }
+  }
+
+}

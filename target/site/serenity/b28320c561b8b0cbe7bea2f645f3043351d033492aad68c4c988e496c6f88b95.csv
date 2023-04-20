@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login scenarios of The-Companion365 Website","User will try to login with wrong username","ERROR","2023-04-05T16:18:46.6019963+05:30[Asia/Calcutta]","0.0","0.78"
+"Login scenarios of The-Companion365 Website","User will try to login with wrong password","ERROR","2023-04-05T16:18:47.5832718+05:30[Asia/Calcutta]","0.0","0.17"
+"Login scenarios of The-Companion365 Website","User will try to login with wrong username and wrong password","ERROR","2023-04-05T16:18:47.8139309+05:30[Asia/Calcutta]","0.0","0.13"
+"Login scenarios of The-Companion365 Website","User try to login without entering username","ERROR","2023-04-05T16:18:47.9964395+05:30[Asia/Calcutta]","0.0","0.18"
+"Login scenarios of The-Companion365 Website","User try to login without entering password","ERROR","2023-04-05T16:18:48.2338853+05:30[Asia/Calcutta]","0.0","0.13"
+"Login scenarios of The-Companion365 Website","User try to login without entering username and password","ERROR","2023-04-05T16:18:48.386612+05:30[Asia/Calcutta]","0.0","0.13"
+"Login scenarios of The-Companion365 Website","User try to login by entering password with capital alphabet","ERROR","2023-04-05T16:18:48.5522242+05:30[Asia/Calcutta]","0.0","0.1"
